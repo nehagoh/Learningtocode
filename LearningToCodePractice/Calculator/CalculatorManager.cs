@@ -44,6 +44,7 @@
                     case 5:
                         Console.Clear();
                         Console.WriteLine("Modulus is selected");
+                        Modulus.mod();
                         break;
 
                     case 0:
