@@ -20,26 +20,31 @@
                     case 1:
                         Console.Clear();
                         Console.WriteLine("Addition is selected!");
+                        Addition.Sum();
                         break;
 
                     case 2:
                         Console.Clear();
                         Console.WriteLine("Subtraction is selected!");
+                        Subtraction.Difference();
                         break;
 
                     case 3:
                         Console.Clear();
                         Console.WriteLine("Multiplication is selected!");
+                        Multiplication.Multiply();
                         break;
 
                     case 4:
                         Console.Clear();
                         Console.WriteLine("Division is selected!");
+                        Division.Divide();
                         break;
 
                     case 5:
                         Console.Clear();
                         Console.WriteLine("Modulus is selected");
+                        Modulus.mod();
                         break;
 
                     case 0:
