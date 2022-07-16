@@ -26,6 +26,7 @@
                     case 2:
                         Console.Clear();
                         Console.WriteLine("Subtraction is selected!");
+                        Subtraction.Difference();
                         break;
 
                     case 3:
