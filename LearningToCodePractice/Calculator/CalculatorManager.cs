@@ -32,6 +32,7 @@
                     case 3:
                         Console.Clear();
                         Console.WriteLine("Multiplication is selected!");
+                        Multiplication.Multiply();
                         break;
 
                     case 4:
