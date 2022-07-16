@@ -38,6 +38,7 @@
                     case 4:
                         Console.Clear();
                         Console.WriteLine("Division is selected!");
+                        Division.Divide();
                         break;
 
                     case 5:
