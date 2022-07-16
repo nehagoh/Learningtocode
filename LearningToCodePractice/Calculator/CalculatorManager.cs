@@ -20,6 +20,7 @@
                     case 1:
                         Console.Clear();
                         Console.WriteLine("Addition is selected!");
+                        Addition.Sum();
                         break;
 
                     case 2:
